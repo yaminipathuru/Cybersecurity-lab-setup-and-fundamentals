@@ -1,0 +1,9 @@
+pwd-Show current directory
+ls-List files and folders
+cd-Change directory
+mkdir- Create a new folder
+rm- Remove file or folder
+ip a-Display IP address
+ping-Test network connectivity
+nmap-Scan network ports
+wireshark-Open packet analyzer
