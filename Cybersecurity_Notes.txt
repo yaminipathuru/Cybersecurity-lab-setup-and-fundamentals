@@ -1,0 +1,46 @@
+what is cybersecurity?
+Cybersecurity is the practice of protecting computers,networks, systems, and data from cyber attacks, unauthorized access, and damage.
+
+CIA Triad
+CONFIDENTIALITY
+        Confidentiality ensures that sensitive information is accessible only to authorized users.
+        example: Password protection, Encryption, Access control
+INTEGRITY
+         Integrity ensures that data remains accurate and is not modified by unauthorized users.
+          example: Hashing, Digital signatures, Data validation
+AVAILABILITY
+          Availability ensures that ssystems and data are accessible when needed..
+          example: Backup systems, Redundant servers, Disaster recovery plans
+Common Cyber Threats
+1.Phishing
+          A Cyber attack where attackers trick users into revealing sensitive information through fake emails, messages, or websites.
+2.Malware
+          Malicious software designed to damage,disrupt, or gain unauthorized access to systems.
+        TYPES: 1.Virus  2.Worm  3.Trojan  4.Spyware
+3.Ddos Attack
+              Distributed Denial of service attacks overwhelm a server or network with excessive traffic, making services unavailable.
+4.SQL injection
+               An attack that inserts malicious SQL commands into web application inputs to access or modify database information.
+5.Brute Force Attack
+                 AN attack where attackers repeatedly try different passwords until the correct one is found.
+6.Ransomware
+                Malware that encrypts files and demands payment for decryption.
+KALI LINUX
+kali linux is a Debian-based linux distribution used for penetration testing, ethical hackiing, and security research.
+      features:
+          1.Pre-installed security tools
+          2.Network analysis tools
+          3.Vulnerability assessment tools
+METASPLOITABLE2
+metasploitable2 is an intentionally vuinerable virtual machine used for cybersecurity training and practice.
+     Purpose: 1. Learn vulnerability assessment
+              2.Practice penetration testing
+              3.Test security tools safely
+NMAP
+nmap (NETWORK MAPPER) is a network scanning tool used to discover hosts, open ports, and services running on a network.
+
+WIRESHARK
+Wireshark is a network protocol analyzer used to capture and inspect network traffic.
+    uses:1.Packet analysis
+        2.Network troubleshooting
+         3.Security monitoring
